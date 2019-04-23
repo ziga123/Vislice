@@ -5,3 +5,4 @@ Lep pozdrav in lep dan!
 Še nekaj bom dodal!
 
 01234
+43210
